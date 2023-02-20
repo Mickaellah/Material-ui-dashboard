@@ -1,0 +1,22 @@
+{
+  "name": "material-ui-dashboard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mickaellah/Material-ui-dashboard.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mickaellah/Material-ui-dashboard/issues"
+  },
+  "homepage": "https://github.com/Mickaellah/Material-ui-dashboard#readme",
+  "dependencies": {
+    "create-react-app": "^5.0.1"
+  }
+}
